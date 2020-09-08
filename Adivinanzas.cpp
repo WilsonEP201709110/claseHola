@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 	
-	
+	adicinanza.Jola();
 	cin.get();
 	return 0;
 }
